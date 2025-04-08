@@ -1,3 +1,3 @@
 #Entrega de tareas 
 
-Nombre: Miguel Pico 
+Nombre: Miguel Pico
